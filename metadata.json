@@ -1,0 +1,6 @@
+{
+  "name": "VECTOR AM STUDIO",
+  "description": "Professional Vector Separator & Alight Motion XML Editor untuk memisahkan layer logo vector, mengedit XML Alight Motion, dan mengekspor project siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
